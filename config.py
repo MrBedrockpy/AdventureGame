@@ -1,2 +1,0 @@
-FPS = 60
-MAX_HEALTH = 3
